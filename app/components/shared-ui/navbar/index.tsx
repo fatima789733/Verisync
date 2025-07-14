@@ -165,7 +165,7 @@ export default function NavBar() {
               style={{ boxShadow: "0px 0px 20px 0px #FFFFFF33 inset" }}
               className="cursor-pointer backdrop-blur-sm !pb-0 hover:-translate-y-1 bg-[#7E61FF0D] flex items-center justify-center  font-inter w-[130px] text-[16px] h-[50px] bg-opacity-50 !text-white rounded-[6px] hover:bg-opacity-70 transition duration-300"
             >
-              <span>Buy Now</span>
+              <span>Get Token</span>
               <Image src={"/arrow.png"} height={20} width={20} alt="arrow" />
             </Link>
           </div>
